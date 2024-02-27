@@ -1,5 +1,7 @@
 Sound Effect Project
 
+Effects are applied on Real Time, so audio from Mobile or PC passes through FPGA and goes to a Speaker.
+
 3 effects :
 	- Distorsion
 	- Echo
@@ -25,3 +27,6 @@ The 4 switches are used for the filter selection.
 
 
  A filter will only work if only one of the 3 effects switches are on.
+
+
+Demo Video : https://www.youtube.com/watch?v=-Fg75exWBlI
