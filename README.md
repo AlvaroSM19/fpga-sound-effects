@@ -22,6 +22,6 @@ The 4 switches are used for the filter selection.
 	Switch 2 : Lowpass filter.
 	Switch 3 : Echo effect.
 	Switch 4 : UART enable/disable.
- 
-	A filter will only work if only one of the switches (from 1 to 3) is enabled.
-	If more than one is enabled, there will not be a filter applied.
+
+
+ A filter will only work if only one of the 3 effects switches are on.
